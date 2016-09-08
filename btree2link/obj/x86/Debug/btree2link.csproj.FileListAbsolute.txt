@@ -1,0 +1,5 @@
+C:\Users\joshlin\Documents\Projects\nodetest\btree2link\bin\Debug\btree2link.exe
+C:\Users\joshlin\Documents\Projects\nodetest\btree2link\bin\Debug\btree2link.pdb
+C:\Users\joshlin\Documents\Projects\nodetest\btree2link\obj\x86\Debug\btree2link.csprojResolveAssemblyReference.cache
+C:\Users\joshlin\Documents\Projects\nodetest\btree2link\obj\x86\Debug\btree2link.exe
+C:\Users\joshlin\Documents\Projects\nodetest\btree2link\obj\x86\Debug\btree2link.pdb

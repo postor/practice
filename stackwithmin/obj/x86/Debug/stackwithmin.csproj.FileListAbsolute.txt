@@ -1,0 +1,5 @@
+C:\Users\joshlin\Documents\Projects\nodetest\stackwithmin\bin\Debug\stackwithmin.exe
+C:\Users\joshlin\Documents\Projects\nodetest\stackwithmin\bin\Debug\stackwithmin.pdb
+C:\Users\joshlin\Documents\Projects\nodetest\stackwithmin\obj\x86\Debug\stackwithmin.csprojResolveAssemblyReference.cache
+C:\Users\joshlin\Documents\Projects\nodetest\stackwithmin\obj\x86\Debug\stackwithmin.exe
+C:\Users\joshlin\Documents\Projects\nodetest\stackwithmin\obj\x86\Debug\stackwithmin.pdb

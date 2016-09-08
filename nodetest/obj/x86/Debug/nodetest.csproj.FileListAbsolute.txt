@@ -1,0 +1,5 @@
+C:\Users\joshlin\Documents\Projects\nodetest\nodetest\obj\x86\Debug\nodetest.csprojResolveAssemblyReference.cache
+C:\Users\joshlin\Documents\Projects\nodetest\nodetest\bin\Debug\nodetest.exe
+C:\Users\joshlin\Documents\Projects\nodetest\nodetest\bin\Debug\nodetest.pdb
+C:\Users\joshlin\Documents\Projects\nodetest\nodetest\obj\x86\Debug\nodetest.exe
+C:\Users\joshlin\Documents\Projects\nodetest\nodetest\obj\x86\Debug\nodetest.pdb
