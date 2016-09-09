@@ -13,6 +13,15 @@
 旋转面就先不做了吧....
 */
 
+/**
+2.使用哈希结构统计出现次数，使用有序链表找出10条
+*/
+
+/**
+3.相似确实可以有不同的理解，这里理解为包含相同的词，将给出的url按斜线打成词，每个词权值1，然后寻找匹配到则给url加权
+*/
+
+
 var cube = new Cube();
 console.log(cube.getMatrix());
 console.log(cube.getFace('bottom'));
