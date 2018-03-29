@@ -6,7 +6,7 @@
 
 class MyIterator {
   constructor(arr){
-    this.arr = arr
+    this.arr = arr.filter(x=>x.length>0)
     this.i = [0,0]
   }
   
