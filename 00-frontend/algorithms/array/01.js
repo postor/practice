@@ -14,9 +14,10 @@ class MyIterator {
     if(!this.hasNext()){
       return undefined
     }
+     
+    console.log(this.i)
     
-    let [i0,i1] = this.i    
-    console.log()
+    let [i0,i1] = this.i   
     const rtn = this.arr[i0][i1]
     i1++
     if(i1 == this.arr[i0].length){
