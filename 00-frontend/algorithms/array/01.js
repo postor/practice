@@ -16,12 +16,14 @@ class MyIterator {
     }
     
     let [i0,i1] = this.i    
+    console.log()
     const rtn = this.arr[i0][i1]
     i1++
     if(i1 == this.arr[i0].length){
       i0++
       i1=0
     }
+    this.i = [i0,i1]
     return rtn
   }
   
