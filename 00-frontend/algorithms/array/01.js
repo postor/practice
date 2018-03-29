@@ -30,7 +30,7 @@ class MyIterator {
   
   hasNext(){
     const [i0,i1] = this.i
-    if(i0==this.arr.length-1 && i1 == this.arr[i0].length){
+    if(i0==this.arr.length){
       return false
     }
     return true
